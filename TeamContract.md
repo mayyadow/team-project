@@ -1,56 +1,78 @@
-# Team Contract
+# **Team Contract**
 
 **Your team is free to revise this contract as your team wishes; we have scaffolded it with a recommended structure similar to the provided sample on Quercus.**
 
-After you reflect on past teamwork experiences and brainstorm a list of actions required for a positive teamwork experience, answer these questions. 
+After you reflect on past teamwork experiences and brainstorm a list of actions required for a positive teamwork experience, answer these questions.
 
 Once you have all agreed on the contents of the team contract, make a PR to merge your team contract into the main branch of your team's repo on GitHub.
 
 **Please remember to remove any of the initial instruction text when your team finalizes your team contract; it should resemble the provided sample once complete, but with details specific to the expectations and norms agreed to by your entire team.**
 
 ---
-## Purpose of this Contract
+
+## **Purpose of this Contract**
 
 This contract sets out shared expectations and commitments for how our team will collaborate during the course. It is designed to promote accountability, professionalism, and mutual support as we complete individual preparation, readiness assurance tests, in-class activities, and our course project.
 
 ---
-## Team Norms and Expectations
 
-### Communication
+## **Team Norms and Expectations**
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
+### Preparation
 
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
+* Team members should complete the expected preparatory activities prior to each lecture as detailed on the Quercus, such as reading the required pre-lecture notes.
 
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
+### Attendance & Participation
 
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+* Team members should attend all lectures and labs that they are able to, unless there is a valid reason for the absence (such as illness).
+    * When a teammate anticipates they will miss or be late for a lecture or lab, they should notify the rest of the team in the group chat beforehand.
+* All members are encouraged to actively contribute ideas and feedback during meetings.
+
+### Communication Format
+
+* We will use a Discord group chat for communication.
+    * When a message or question is directed at a specific teammate, they should respond within 24 hours (but ideally as soon as they see the message).
+* Teammates should let the rest of the team know **as soon as possible** if they encounter difficulty when completing assigned tasks, anticipate they may miss a deadline, or will be unavailable for a period of time longer than a day.
+* Teammates should actively listen to each team member's ideas and give everyone a chance to meaningfully contribute.
+
+### Distribution of Work
+
+* Every group member should contribute a meaningful amount to the project. Members should not rely on the rest of the team to do all of the work.
+* The team will discuss an outline of each stage of the project and delegate tasks to each member as soon as is feasible.
+    * Tasks/deadlines will be organized in a document that each member can view and edit as necessary.
+* Each individual task or project section should be assigned a soft deadline once delegated.
+    * When accepting a deadline, a teammate should **check their upcoming schedule (tests, events, assignment due dates, etc.)** to make sure it is realistic for the deadline to be reached.
+    * Soft deadlines should be treated as firm, but open for extension only if there are unexpected delays with the task. **Teammates should not repeatedly miss deadlines or prolong them at the last minute as a result of procrastination.**
+    * Planned deadlines should leave ample room before hard deadlines set by the course, to account for unexpected delays.
+* If a group member anticipates they will miss a deadline or cannot finish a task for another reason, **they should notify the team as soon as possible.**
+
+### Decision Making
+
+* Major decisions affecting a large portion of the scope of the project should be approved unanimously by the team, so no individual member is uncomfortable with the direction of the project.
+* Minor decisions about the team project may be made by a majority vote.
+* In the case of a tie or other decision incompatibility, the group should initiate the appropriate resolution procedure as detailed in the Conflict Resolution section.
+
+### Work Quality
+
+* Members should review their own work before sharing it with the team; work should be clear and free of major errors.
+* All code should be reviewed by another team member before it is implemented into the repository.
+    * Reviewers are heavily encouraged to **consult the project instructions and rubric** to make sure the code satisfies the expectations of the course.
 
 ---
 
-### [Other Categories of norms and expectations go here]
+## **Conflict Resolution**
 
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
-
----
-
-## Decision Making
-
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
-
----
-## Conflict resolution
-
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
+* Team members will address conflicts through open and respectful discussion, giving everyone a chance to share their perspective without interruption. Members with conflicting viewpoints should attempt to settle on a compromise if possible.
+* If the conflict remains unresolved or affects progress, the team will attend office hours as a group or contact an instructor/TA for help.
 
 ---
 
-## Accountability
+## **Accountability**
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
-
----
+* Team members should complete their share of work in a timely manner. If they encounter problems in doing so, they should seek assistance from their teammates/TAs/instructors well in advance of the deadline.
+* Team members should regularly communicate to keep their teammates up to date with their progress.
+* Members agree to provide honest and fair peer evaluation scores.
+* **Members who fail to follow any of the expectations in this contract, especially the expectations related to communication and timeliness, agree to accept reasonable consequences as determined by the rest of the team, such as lower peer evaluation scores.**
 
 ---
 
@@ -58,4 +80,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-(type names here)
+Jason De Lanerolle
